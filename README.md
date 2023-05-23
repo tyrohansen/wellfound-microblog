@@ -1,6 +1,6 @@
 # Welcome to Wellfound's microblog assessment!
 
-![alt text](.screenshots/index.png)
+![alt text](https://github.com/tyrohansen/wellfound-microblog/blob/main/screenshots/index.png)
 
 
 ## Goal
